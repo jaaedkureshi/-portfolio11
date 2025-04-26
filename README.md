@@ -1,2 +1,1 @@
-# -portfolio11
-no
+https://jaaedkureshi.github.io/jaaed/#jaaed-kureshi
